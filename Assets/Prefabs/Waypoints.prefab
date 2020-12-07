@@ -1,0 +1,1915 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3319129135753982527
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129135753982520}
+  m_Layer: 0
+  m_Name: Waypoint (14)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129135753982520
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135753982527}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -14.19, y: -3.83, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129135791070138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129135791070139}
+  m_Layer: 0
+  m_Name: Waypoints
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129135791070139
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135791070138}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -12.723514, y: 7.3215837, z: -1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3319129135836740923}
+  - {fileID: 3319129136745538543}
+  - {fileID: 3319129137694566332}
+  - {fileID: 3319129137323151399}
+  - {fileID: 3319129135841961986}
+  - {fileID: 3319129137681388901}
+  - {fileID: 3319129136692934831}
+  - {fileID: 3319129136779771922}
+  - {fileID: 3319129137659462181}
+  - {fileID: 3319129137433042921}
+  - {fileID: 3319129136155584964}
+  - {fileID: 3319129136275291688}
+  - {fileID: 3319129136783965575}
+  - {fileID: 3319129136042983083}
+  - {fileID: 3319129136173059357}
+  - {fileID: 3319129135753982520}
+  - {fileID: 3319129136873513599}
+  - {fileID: 3319129135975340245}
+  - {fileID: 3319129137167956222}
+  - {fileID: 3319129135919827905}
+  - {fileID: 3319129137673578048}
+  - {fileID: 3319129137633643595}
+  - {fileID: 3319129135904045028}
+  - {fileID: 3319129135920545642}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129135836740922
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129135836740923}
+  - component: {fileID: 3319129135836740900}
+  - component: {fileID: 3319129135836740901}
+  m_Layer: 0
+  m_Name: Waypoint (23)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129135836740923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135836740922}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -21.701, y: 8.553, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129135836740900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135836740922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: ' '
+      sentence: "Nach Tagen, in denen sich deine Gruppe durch den Dschungel einer
+        fremden Welt k\xE4mpfen musste habt ihr es endlich geschafft und seid an
+        der Kommunikationszentrale angekommen."
+    - name: ' '
+      sentence: "Oder jedenfalls dem was von ihr \xFCbrig geblieben ist."
+    - name: Kilian
+      sentence: "Sir, ich f\xFCrchte die Kommunikationszentrale ist komplett zerst\xF6rt
+        und scheint auch nicht wieder repariert werden zu k\xF6nnen."
+    - name: ' '
+      sentence: "Nachdem Kilian diese Worte ausspricht l\xE4sst du dich auf den Boden
+        fallen und denkst an all die M\xFChen, die ihr durchmachen musstet."
+    - name: Chris
+      sentence: "Nach all den Strapazen scheinen die Bem\xFChungen sinnlos gewesen
+        zu sein."
+    - name: ' '
+      sentence: "Pl\xF6tzlich bemerkst du eine Hand auf deiner Schulter."
+    - name: Mutter
+      sentence: "Chris, dein Vater ist aufgewacht, er m\xF6chte mit dir reden."
+    - name: ' '
+      sentence: "Entmutigt gehst du zum Zelt deines Vaters und weist weder wie du
+        es ihm beibringen kannst noch wie du es der ganzen Gruppe von \xFCberleben
+        sagen sollst, dass alles umsonst war."
+    - name: Vater
+      sentence: "Junge, komm her. Wie ich h\xF6rte, hast du uns erfolgreich zur Kommunikationszentrale
+        gebracht."
+    - name: Chris
+      sentence: "Ja, aber leider ist sie zu zerst\xF6rt um sie jemals wieder benutzen
+        zu k\xF6nnen. Es tut mir leid Vater, ich habe dich entt\xE4uscht."
+    - name: Vater
+      sentence: "Was redest du den da. Du hast uns durch dieses giftigen Dschungel
+        gef\xFChrt und wie es scheint es hier endlich einen Ort, an dem wir ein Lager
+        aufschlagen k\xF6nnen."
+    - name: Vater
+      sentence: "Nat\xFCrlich sieht es momentan nicht sehr gut f\xFCr uns aus, aber
+        dank dir haben wir eine Chance auf diesen Planeten zu \xFCberleben."
+    - name: Kilian
+      sentence: "Dein Vater hat recht Chris. Ohne dich h\xE4tte es weitaus schlimmer
+        f\xFCr uns aussehen k\xF6nnen und dabei dachte ich eigentlich am Anfang das
+        du uns in den Untergang f\xFChrst."
+    - name: Chris
+      sentence: Ernsthaft Kilian? Du hast dir aber nichts davon anmerken lassen.
+    - name: Kilian
+      sentence: Ich bin eben mit einer herausragenden Schauspielkunst programmiert
+        worden, Sir.
+    - name: Chris
+      sentence: "Meint ihr wirklich, dass ich einen guten Job gemacht habe und wir
+        hier \xFCberleben k\xF6nnen."
+    - name: Vater
+      sentence: "Du hast einen sehr guten Job gemacht, aber ob wir hier \xFCberleben
+        k\xF6nnen, kann uns nur die Zeit zeigen."
+    - name: ' '
+      sentence: "Und so endet vorerst die Geschichte \xFCber das Kolonieschiff Destination
+        und der Familie Holm. Eventuell k\xF6nnen die Leute auf dem au\xDFerirdischen
+        Planeten \xFCberleben, aber das h\xE4ngt einzig und allein von den Entscheidungen
+        ab die Chris Holm treffen wird. "
+    saveDecision: 0
+    decisions: []
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!114 &3319129135836740901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135836740922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69c85d978b42e80459e6283ab57e8deb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  transition: {fileID: 0}
+--- !u!1 &3319129135841961985
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129135841961986}
+  m_Layer: 0
+  m_Name: Waypoint (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129135841961986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135841961985}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.99, y: -0.14, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129135904045051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129135904045028}
+  m_Layer: 0
+  m_Name: Waypoint (21)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129135904045028
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135904045051}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -21.91, y: 3.83, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 22
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129135919827904
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129135919827905}
+  m_Layer: 0
+  m_Name: Waypoint (18)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129135919827905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135919827904}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -20.05, y: -1.32, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129135920545641
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129135920545642}
+  - component: {fileID: 3319129135920545620}
+  m_Layer: 0
+  m_Name: Waypoint (22)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129135920545642
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135920545641}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -22.05, y: 5.73, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129135920545620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135920545641}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: "Sir, wie erwartet ist an dieser Stelle ein Fluss, aber es ist leider
+        absolut unm\xF6glich um ihn herum zu gehen, uns bleibt nicht anderes \xFCbrig,
+        als ihn zu \xFCberqueren."
+    - name: Kilian
+      sentence: "Leider wissen wir nicht genau wie tief das Wasser ist, wir k\xF6nnten
+        versuchen einfach durchzulaufen und riskieren das es an manchen Stellen zu
+        tief ist oder wir versuchen eine provisorische Br\xFCcke zu bauen."
+    saveDecision: 0
+    decisions:
+    - decisionText: "Wir werden versuchen durch das Wasser zu gehen, eine Br\xFCcke
+        zu bauen w\xFCrde uns zu viel Zeit kosten."
+      nextDecision: 1
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Wir werden eine Br\xFCcke bauen. Wir d\xFCrfen niemanden riskieren,
+        entweder schaffen es alle \xFCber den Fluss oder keiner."
+      nextDecision: 2
+      eventDecisions:
+      - valueName: timeHour
+        valueNumber: -1
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: ' '
+      sentence: Als deine Leute vorsichtig durch den Fluss laufen, um auch sicherzugehen,
+        dass er nicht zu tief ist. Merken Sie bald das er sehr flach ist und man
+        ohne bedenken durchlaufen kann.
+    - name: Kilian
+      sentence: "Anscheinend gab es keinen Grund zur Besorgnis. Zum Gl\xFCck haben
+        wir unsere Zeit nicht mit dem Bauen einer Br\xFCcke verschwendet."
+    saveDecision: 0
+    decisions: []
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: ' '
+      sentence: "Als ihr eine ganze Weile damit verbringt die Br\xFCcken zu bauen,
+        f\xE4llt auf einmal einer der Baumst\xE4mme ins Wasser und jeder bemerkt
+        das der Fluss nicht sehr tief ist."
+    - name: Kilian
+      sentence: "Anscheinend war es reine Zeitverschwendung diese Br\xFCcken zu bauen.
+        Die Leute werden nicht sehr zufrieden damit sein."
+    saveDecision: 0
+    decisions: []
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129135975340244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129135975340245}
+  - component: {fileID: 3319129135975340246}
+  m_Layer: 0
+  m_Name: Waypoint (16)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129135975340245
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135975340244}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -16.5, y: -6.04, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129135975340246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129135975340244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 14
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Empty
+      sentence: Empty
+    saveDecision: 0
+    decisions: []
+  - connectedWaypoint: 14
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: Kilian
+      sentence: Sir, anscheinend haben wir einige Leute verloren, als wir durch den
+        Sumpf gegangen sind. Und anscheinend werden sie mir als VERSTORBEN angezeigt.
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: amountCivilian
+        valueNumber: -7
+      - valueName: amountInjured
+        valueNumber: -7
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 14
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: Kilian
+      sentence: Wir haben es nun anscheinend alle durch den Sumpf geschafft, aber
+        leider wurde manche Leute durch das Sumpfwasser krank.
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: amountCivilian
+        valueNumber: -10
+      - valueName: amountInjured
+        valueNumber: 10
+      - valueName: speed
+        valueNumber: 0.2
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 14
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: Wir haben es nun durch den Sumpf geschafft und durch die Ebbe gab
+        es keine weiteren Probleme.
+    saveDecision: 0
+    decisions: []
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129136042983082
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136042983083}
+  m_Layer: 0
+  m_Name: Waypoint (12)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136042983083
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136042983082}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -10.588, y: -4.899, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129136155584987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136155584964}
+  m_Layer: 0
+  m_Name: Waypoint (9)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136155584964
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136155584987}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8.85, y: 1.08, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129136173059356
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136173059357}
+  - component: {fileID: 3319129136173059358}
+  m_Layer: 0
+  m_Name: Waypoint (13)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136173059357
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136173059356}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -12.235, y: -4.534, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129136173059358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136173059356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: Kilian
+      sentence: "Sir, vor uns befindet sich eine Sumpflandschaft mit giftigem Nebel,
+        sie m\xFCssen nun entscheiden wie wir da durch kommen."
+    saveDecision: 1
+    decisions:
+    - decisionText: "Wir gehen einfach so schnell wir k\xF6nnen da durch."
+      nextDecision: 1
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Wir werden vorsichtig durch den Sumpf gehen, wer wei\xDF schon
+        was uns da drin erwartet, besser wir gehen langsam da durch."
+      nextDecision: 2
+      eventDecisions:
+      - valueName: speed
+        valueNumber: -0.2
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Wir warten ab und \xFCberlegen uns etwas wie wir am besten durch
+        den Sumpf kommen."
+      nextDecision: 3
+      eventDecisions:
+      - valueName: timeHour
+        valueNumber: 1
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: in Ordnung
+    saveDecision: 0
+    decisions: []
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: In Ordnung.
+    saveDecision: 0
+    decisions: []
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: ' '
+      sentence: Nachdem ihr eine Weile wartet meldet sich Kilian bei dir.
+    - name: Kilian
+      sentence: "Sir, anscheinend ist das Wasser vom Sumpf zur\xFCckgegangen, es
+        sieht so aus als g\xE4be es so etwas wie Ebbe in diesem Gebiet"
+    - name: Kilian
+      sentence: "Ich habe sie untersch\xE4tzt, ab zuwartet war sehr schlau von ihnen."
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: timeHour
+        valueNumber: 1
+      nextWaypoint: {fileID: 0}
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129136275291695
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136275291688}
+  - component: {fileID: 3319129136275291690}
+  m_Layer: 0
+  m_Name: Waypoint (10)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136275291688
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136275291695}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.009999, y: -0.5799999, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129136275291690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136275291695}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: ' '
+      sentence: "Pl\xF6tzlich kommt von hinten Thomas angerannt und versucht dich
+        hektisch zu erreichen."
+    - name: Thomas
+      sentence: "Herr Holm, meine Sp\xE4her haben mir gerade berichtet das vor au\xDFerirdische
+        Lebewesen sind. Sie sind nicht freundlich, einer meiner M\xE4nner ist bereits
+        tot."
+    - name: Thomas
+      sentence: "Da es keinen anderen Weg gibt m\xFCssen wir k\xE4mpfen. Ich schlage
+        vor, dass wir mit voller Wucht angreifen. Lasst mich all unsere M\xE4nner
+        losschicken."
+    - name: Kilian
+      sentence: "In der Regel w\xFCrde ich ihnen raten auf die Anweisungen ihres
+        Sicherheitschefs zu h\xF6ren, aber eigentlich ist Thomas das nicht, darum
+        liegt es nun an euch was wir nun tun."
+    saveDecision: 0
+    decisions:
+    - decisionText: "Gut nehmt all unsere M\xE4nner."
+      nextDecision: 1
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Nehmt nur die H\xE4lfte mit, die anderen sollen die Kolonisten
+        verteidigen."
+      nextDecision: 4
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: Thomas
+      sentence: Und wie sollen wir vorgehen?
+    saveDecision: 0
+    decisions:
+    - decisionText: "Legt f\xFCr sie einen Hinterhalt."
+      nextDecision: 2
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Greift mit voller st\xE4rke an."
+      nextDecision: 3
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: ' '
+      sentence: "Deine Sicherheitskr\xE4fte gehen los und stellen f\xFCr die Gegner
+        einen Hinterhalt."
+    - name: ' '
+      sentence: "Nach einer Weile h\xF6rt ihr Kampfger\xE4usche und die Gruppe beginnt
+        mit Spannung auf den Verbleib der Sicherheitskr\xE4fte zu warten."
+    - name: ' '
+      sentence: "Etwas sp\xE4ter h\xF6rst du Thomas \xFCber Funk der sich bei dir
+        meldet."
+    - name: Thomas
+      sentence: Sir, die Kreaturen fliehen, wir haben sie besiegt.
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: amountSecurity
+        valueNumber: -2
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: ' '
+      sentence: "Deine Sicherheitskr\xE4fte gehen los und stellen f\xFCr die Gegner
+        einen Hinterhalt. "
+    - name: ' '
+      sentence: "Nach einer Weile h\xF6rt ihr Kampfger\xE4usche und die Gruppe beginnt
+        mit Spannung auf den Verbleib der Sicherheitskr\xE4fte zu warten."
+    - name: ' '
+      sentence: "Nach einer Weile h\xF6rst du Thomas \xFCber Funk der sich bei dir
+        meldet."
+    - name: Thomas
+      sentence: Sir, die Kreaturen fliehen, wir haben sie besiegt.
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: amountSecurity
+        valueNumber: -4
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: Thomas
+      sentence: Und wie sollen wir vorgehen?
+    saveDecision: 0
+    decisions:
+    - decisionText: "Legt f\xFCr sie einen Hinterhalt."
+      nextDecision: 5
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Greift mit voller st\xE4rke an."
+      nextDecision: 6
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: ' '
+      sentence: "Deine Sicherheitskr\xE4fte gehen los und stellen f\xFCr die Gegner
+        einen Hinterhalt. "
+    - name: ' '
+      sentence: "Nach einer Weile h\xF6rt ihr Kampfger\xE4usche und die Gruppe beginnt
+        mit Spannung auf den Verbleib der Sicherheitskr\xE4fte zu warten."
+    - name: ' '
+      sentence: "Nach einer Weile h\xF6rst du Thomas \xFCber Funk der sich bei dir
+        meldet."
+    - name: Thomas
+      sentence: "Chris! Wir brauchen die anderen M\xE4nner sofort hier bei uns!"
+    - name: ' '
+      sentence: "Ohne lange zu \xFCberlegen schickst du die restlichen M\xE4nner
+        los"
+    - name: ' '
+      sentence: "Etwas sp\xE4ter meldet sich Thomas wieder bei dir."
+    - name: Thomas
+      sentence: "Chris, die Kreaturen sind erledigt, aber N\xE4chstes mal schickst
+        du mir alle M\xE4nner mit."
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: amountSecurity
+        valueNumber: -5
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: ' '
+      sentence: "Deine Sicherheitskr\xE4fte gehen los und greifen den Feind an."
+    - name: ' '
+      sentence: "Ihr h\xF6rt sehr schnell Kampfger\xE4usche, die sich nicht gut anh\xF6ren.
+        Mit Spannung wartet die Gruppe auf den Verbleib der Sicherheitskr\xE4fte."
+    - name: ' '
+      sentence: "Nach einer Weile h\xF6rst du Thomas \xFCber Funk der sich bei dir
+        meldet."
+    - name: Thomas
+      sentence: "Chris! Wir brauchen die anderen M\xE4nner sofort hier bei uns!"
+    - name: ' '
+      sentence: "Ohne lange zu \xFCberlegen schickst du die restlichen M\xE4nner
+        los"
+    - name: ' '
+      sentence: "Etwas sp\xE4ter meldet sich Thomas wieder bei dir."
+    - name: Thomas
+      sentence: "Chris, die Kreaturen sind erledigt. Wir haben leider einige M\xE4nner
+        verloren. N\xE4chstes mal schickst du mir alle M\xE4nner mit."
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: amountSecurity
+        valueNumber: -8
+      nextWaypoint: {fileID: 0}
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129136692934830
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136692934831}
+  m_Layer: 0
+  m_Name: Waypoint (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136692934831
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136692934830}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.88, y: -3.13, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129136745538542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136745538543}
+  - component: {fileID: 3319129136745538536}
+  m_Layer: 0
+  m_Name: Waypoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136745538543
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136745538542}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 11.63, y: -7.249, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129136745538536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136745538542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: ' '
+      sentence: "Du wachst in einem Tr\xFCmmerfeld auf. Um dich herum ist nichts
+        weiter zu h\xF6ren als Schreie, Weinen und das Brennen von den Tr\xFCmmern
+        deines Schiffes."
+    - name: ' '
+      sentence: Ganz verwirrt versuchst du dich daran zu erinnern was geschehen ist.
+    - name: ' '
+      sentence: 'Das letzte an das du dich erinnern kannst ist das du auf einem Kolonieschiff
+        warst, dass sich auf dem Weg zu einem neuen Planeten aufmachte. '
+    - name: ' '
+      sentence: Du warst Teil der ersten Siedler, die den Planeten im Namen der Menschheit
+        besiedeln sollten.
+    - name: ' '
+      sentence: Und du erinnerst dich an deinen Vater, der der Kommandant dieser
+        Siedler ist und auch daran wie ungern du mit ihm mit wolltest.
+    - name: ' '
+      sentence: "Doch gerade als euer Raumschiff, die Destination, in die Atmosph\xE4re
+        des Planeten eintritt, gibt es eine laute Explosion. "
+    - name: ' '
+      sentence: Dein Vater gibt lautstark Befehle und schickt dich daraufhin weg
+        in seine Rettungskapseln zu gehen.
+    - name: ' '
+      sentence: "Kurz darauf gibt es noch eine Explosion und pl\xF6tzlich fliegst
+        du mit der Rettungskapsel von der Br\xFCcke weg, danach verschwimmt alles
+        vor deinen Augen."
+    - name: ' '
+      sentence: Nachdem dir klar wird was geschehen war, stehst du immer noch desorientiert
+        auf und siehst dich um.
+    - name: ' '
+      sentence: "Du stehst in der halb zerst\xF6rten Rettungskapsel deines Vaters
+        und bist von Tr\xFCmmern umgeben, aber du siehst leider keine anderen \xDCberlebenden."
+    - name: ' '
+      sentence: Doch auf einmal bemerkst du von weiter entfernt laute und verzweifelte
+        Stimmen und gehst ihnen nach.
+    - name: ' '
+      sentence: "Du entdeckst ein St\xFCck weiter ein provisorisches Lager, dass
+        von Tr\xFCmmern umringt ist. "
+    - name: ' '
+      sentence: "Du l\xE4ufst darauf zu, in der Hoffnung das dort deine Eltern wohlauf
+        sind."
+    - name: ' '
+      sentence: Hecktisch rennst du durch das Lager und bemerkst fast gar nicht das
+        Leiden der anderen Leute.
+    - name: ' '
+      sentence: "Doch auf einmal siehst du deine Mutter, die in ihrer Aufgabe als
+        \xC4rztin, die Verwundeten versorgt."
+    - name: ' '
+      sentence: 'Du rennst zu ihr und umarmst sie, bevor sie richtig merken kann
+        das du es bist. '
+    - name: ' '
+      sentence: "Als sie nach einem kurzen Moment des Erstaunens bemerkt um wen es
+        sich handelt umarmt sie dich zur\xFCck, ohne R\xFCcksicht auf ihre blutbeschmierten
+        Handschuhe zu nehmen. "
+    - name: Chris
+      sentence: Geht es dir gut?
+    - name: Mutter
+      sentence: Ja Chris und wie geht es dir, bist du nirgends verletzt?
+    - name: Chris
+      sentence: "Nein, ich habe Gl\xFCck gehabt. Aber wo ist Vater, geht es ihm gut?"
+    - name: Mutter
+      sentence: "Er lebt noch, \u2026 aber es geht ihm nicht gut. Wir wissen nicht
+        ob er es schaffen wird."
+    - name: Chris
+      sentence: Wo ist er?
+    - name: Mutter
+      sentence: "Hier dr\xFCben im Zelt, komm."
+    - name: ' '
+      sentence: "Als du das Zelt betrittst siehst du deinen Vater in der Mitte, auf
+        einem Bett liegen. Zahllose verbundene Wunden sind auf seinen K\xF6rper auszumachen,
+        \xFCberall auf dem Bett ist Blut zu sehen und er atmet sehr schwer."
+    - name: Mutter
+      sentence: "Beeil dich und rede noch mit ihm, er wird gleich in ein k\xFCnstliches
+        Koma versetzt, damit er besser versorgt werden kann."
+    - name: Chris
+      sentence: Vater..., wie geht es dir?
+    - name: Vater
+      sentence: "Chris zum Gl\xFCck geht es dir gut. Ich dachte schon du w\xE4rst
+        auch\u2026"
+    - name: Chris
+      sentence: "Nein, mir geht es gut, aber was ist mit dir? Mutter sagte sie m\xFCssen
+        dich gleich in ein k\xFCnstliches Koma versetzen. "
+    - name: Vater
+      sentence: Nun, anscheinend hat es mich wohl schwer erwischt...
+    - name: Vater
+      sentence: "Doch nun h\xF6r mir gut zu. Du musst f\xFCr mich unsere Leute anf\xFChren,
+        du bist der einzige dem ich das jetzt noch anvertrauen kann."
+    - name: Chris
+      sentence: "Aber Vater, ich bin doch gar nicht daf\xFCr qualifiziert. Wieso
+        kann nicht einer der anderen Befehlshaber dich ersetzen?"
+    - name: Vater
+      sentence: "Weil sie entweder tot sind oder noch schlimmer verletzt sind wie
+        ich. Du bist jetzt die beste Option f\xFCr diese Leute. Denk einfach an deine
+        Ausbildung, dann wirst du das schaffen."
+    - name: Vater
+      sentence: "Kilian, \xFCbertrage hiermit meine komplette Befehlsgewalt und auch
+        dich, an meinen Sohn weiter."
+    - name: Vater
+      sentence: "Die K\xFCnstliche Intelligenz Kilian wird dir dabei helfen, dich
+        um alle \xDCberlebenden zu k\xFCmmern."
+    - name: Mutter
+      sentence: "Chris, wir m\xFCssen ihn jetzt ins Koma versetzen."
+    - name: ' '
+      sentence: Bevor du noch etwas sagen kannst kommen zwei Helfer und schieben
+        deinen Vater zu einem Apparat. Du willst noch etwas zum Abschied sagen, aber
+        dir fehlen die Worte.
+    - name: ' '
+      sentence: "Schweigend erstarrst du f\xFCr eine Weile und siehst zu wie man
+        deinen Vater behandelt. Bis pl\xF6tzlich eine Stimme in deinem Kopf ert\xF6nt."
+    - name: Kilian
+      sentence: "Guten Tag Herr Chris Holm, ich wurde von ihrem Vater, Erik Holm,
+        Kommandant \xFCber die Kolonisten der Destination \xFCbertragen, um ihnen
+        dabei zu helfen f\xFCr ihren Vater einzuspringen."
+    - name: Kilian
+      sentence: "Wenn ich mich kurz vorstellen darf: Ich bin KILIAN, ihr K\xFCnstliches
+        Intelligentes Leitinterface f\xFCr Abenteuer im Nirgendwo. Ich bin darauf
+        programmiert dem Kommandanten dieser Kolonie in s\xE4mtlichen Belangen zu
+        helfen. Wie kann ich ihnen behilflich sein?"
+    saveDecision: 0
+    decisions:
+    - decisionText: "\xC4hh, wieso bist du eine Stimme in meinem Kopf?"
+      nextDecision: 1
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "\xC4hh, f\xFCr Abenteuer im Nirgendwo"
+      nextDecision: 2
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Was soll ich jetzt tun, als neuer Anf\xFChrer der Siedlung?"
+      nextDecision: 3
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: "Ich bin an ihr Gehirnimpfimplantat gekoppelt, das sich in jedem
+        Kolonisten befindet, um die Kolonisten besser \xFCberwachen zu k\xF6nnen."
+    saveDecision: 0
+    decisions:
+    - decisionText: "\xC4hh, f\xFCr Abenteuer im Nirgendwo"
+      nextDecision: 2
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Was soll ich jetzt tun, als neuer Anf\xFChrer der Siedlung?"
+      nextDecision: 3
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: 'Die einprogrammierte Antwort auf diese Frage lautet: Diese KI kann
+        kann dich sogar in einem Nichts leiten. '
+    - name: Kilian
+      sentence: "Aber wenn sie meine pers\xF6nliche Meinung h\xF6ren wollen, dann
+        w\xFCrde ich sagen das meine Programmierer nur irgendetwas erfanden um meinen
+        Namen Kilian zu bilden."
+    saveDecision: 0
+    decisions:
+    - decisionText: "\xC4hh, wieso bist du eine Stimme in meinem Kopf?"
+      nextDecision: 1
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Was soll ich jetzt tun, als neuer Anf\xFChrer der Siedlung?"
+      nextDecision: 3
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: "Das Protokoll schl\xE4gt in einer solchen Situation vor sich umgehende
+        mit der Erde in Verbindung zu setzen."
+    - name: Kilian
+      sentence: "Leider k\xF6nnen wir das nicht mehr, da unsere Kommunikationszentrale
+        weit von uns entfernt abgest\xFCrzt ist."
+    - name: Kilian
+      sentence: "Aber wir k\xF6nnten uns dorthin begeben und versuchen die Kommunikationszentrale
+        wieder in betrieb zu nehmen."
+    - name: Chris
+      sentence: "Und wie machen wir das genau, sollen wir etwa in einem kleinen Team
+        durch diesen au\xDFerirdischen Dschungel laufen?"
+    - name: Kilian
+      sentence: "Nun, laut den Forschungen \xFCber diesen Planeten muss ich dir raten
+        mit allen \xDCberlebenden los zu gehen."
+    - name: Chris
+      sentence: "WAS!? Das w\xFCrde den meisten von ihnen den Rest geben, ganz zu
+        schweigen davon das wir keine Ahnung haben was da drau\xDFen alles lauert."
+    - name: Kilian
+      sentence: "Nach meiner Karte befinden wir uns in einem Areal das st\xE4ndig
+        Gaswolken bilden kann. Wenn wir nicht alle in Bewegung bleiben k\xF6nnten
+        wir von einer solchen Wolke erfasst werden. "
+    - name: Chris
+      sentence: "Verstehe, wie lang k\xF6nnen wir hier bleiben."
+    - name: Kilian
+      sentence: Maximal 2Tage, aber ich empfehle schon morgen aufzubrechen.
+    - name: ' '
+      sentence: "Nachdem du alles mit Kilian und deiner Mutter besprochen hast, macht
+        sich deine Gruppe von \xDCberlebenden am n\xE4chsten Tag auf um die Kommunikationszentrale
+        zu finden."
+    - name: ' '
+      sentence: "Dabei werden zahlreiche Verletzte auf die letzten paar Fahrzeuge
+        verladen und der Rest l\xE4uft dir hinterher."
+    - name: ' '
+      sentence: "Um es f\xFCr dich \xFCbersichtlicher zu machen teilt Kilian die
+        Mitglieder der Gruppe in drei Teile, die Sicherheitskr\xE4fte, die Zivilisten
+        und die Verletzten."
+    - name: ' '
+      sentence: "Diese werden f\xFCr dich oben an der Karte angezeigt."
+    - name: ' '
+      sentence: In der oberen linken Ecke deiner Holokarte wird dir die momentane
+        Zeit der Erde in UTC angezeigt.
+    - name: ' '
+      sentence: "Unten findest du einen Knopf der die Gruppenverwaltung \xF6ffnet,
+        dort kannst du festlegen wie viel Vorr\xE4te deine Gruppe pro Stunde erh\xE4lt.
+        Dabei bekommen die Verletzten immer das doppelte, um sie besser zu versorgen. "
+    - name: ' '
+      sentence: Und so begebt ihr euch nun auf eine wagemutige Reise durch eine fremde
+        Welt.
+    saveDecision: 0
+    decisions: []
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129136779771921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136779771922}
+  m_Layer: 0
+  m_Name: Waypoint (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136779771922
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136779771921}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.5699997, y: -3.72, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129136783965574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136783965575}
+  m_Layer: 0
+  m_Name: Waypoint (11)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136783965575
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136783965574}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.95, y: -2.69, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129136873513598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129136873513599}
+  m_Layer: 0
+  m_Name: Waypoint (15)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129136873513599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129136873513598}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -15.32, y: -4.83, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129137167956221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129137167956222}
+  - component: {fileID: 3319129137167956223}
+  m_Layer: 0
+  m_Name: Waypoint (17)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129137167956222
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137167956221}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -18.7, y: -4.79, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 18
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129137167956223
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137167956221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: "Ein Mann von den Sicherheitskr\xE4ften sorgt f\xFCr \xE4rger und
+        wurde verhaftet."
+    - name: Kilian
+      sentence: "Anscheinend wollte er einen einfachen Streit zwischen zwei Zivilisten
+        l\xF6sen und wurde dabei gewalt\xE4tig."
+    - name: Kilian
+      sentence: "Was sollen wir mit ihm machen? Die Zivilisten wollen das er bestraft
+        wird, aber die Sicherheitskr\xE4fte werden eventuell sauer sein, wenn wir
+        einen der ihren bestrafen."
+    saveDecision: 1
+    decisions:
+    - decisionText: "Bestraft ihn, er soll f\xFCr die restliche Reise nicht l\xE4nger
+        zur Sicherheit geh\xF6ren."
+      nextDecision: 1
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Lasst ihn frei, wir k\xF6nnen uns momentan nicht erlauben, dass
+        wir untereinander Streiten."
+      nextDecision: 1
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: "Wie sie w\xFCnschen."
+    saveDecision: 1
+    decisions: []
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129137323151398
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129137323151399}
+  - component: {fileID: 3319129137323151392}
+  m_Layer: 0
+  m_Name: Waypoint (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129137323151399
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137323151398}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.5, y: -1.79, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129137323151392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137323151398}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: Kilian
+      sentence: "Sir es tut mir leid, falls ich sie st\xF6re, aber anscheinend werden
+        durch den dichten Wald mehrere Leute aufgehalten und k\xF6nnen nicht mithalten."
+    - name: Kilian
+      sentence: "Sollen wir unser Tempo verlangsamen, damit alle aufschlie\xDFen
+        k\xF6nnen und verlieren daf\xFCr Zeit oder sollen wir einfach weiter laufen?"
+    saveDecision: 0
+    decisions:
+    - decisionText: "Lass uns das Tempo beibehalten, wenn wir zu langsam sind k\xF6nnte
+        uns eine dieser Giftwolken erreichen."
+      nextDecision: 0
+      eventDecisions:
+      - valueName: amountCivilian
+        valueNumber: -11
+      - valueName: amountInjured
+        valueNumber: -3
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Niemand wird zur\xFCckgelassen, wir m\xFCssen unbedingt langsamer
+        werden, damit die restlichen Leute mithalten k\xF6nnen."
+      nextDecision: 0
+      eventDecisions:
+      - valueName: speed
+        valueNumber: -0.4
+      nextWaypoint: {fileID: 0}
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129137433042920
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129137433042921}
+  - component: {fileID: 3319129137433042923}
+  m_Layer: 0
+  m_Name: Waypoint (8)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129137433042921
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137433042920}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -5.51, y: 1.79, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129137433042923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137433042920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: Kilian
+      sentence: "Sie, der neue Leiter der Sicherheitskr\xE4fte m\xF6chte mit ihnen
+        reden. So wie sie w\xFCrde er der Leiter der Sicherheitskr\xE4fte, wegen
+        dem Tod der Rangh\xF6rehren und h\xE4tte daraufhin beinahe ihre jetzige Position
+        innegehabt."
+    - name: Thomas
+      sentence: "Sehr erfreut Herr Chris Holm, mein Name ist Thomas Nord. Ich komme
+        heute zu ihnen um sie darum zu bitten meinen Sicherheitsleuten mehr Vorr\xE4te
+        zukommen zu lassen."
+    - name: Thomas
+      sentence: "Meine Leute Arbeiten hart um f\xFCr sie zu arbeiten und deshalb
+        finden wir das wir mehr Vorr\xE4te verdienen. Also was sagen sie?"
+    saveDecision: 0
+    decisions:
+    - decisionText: "Nun gut, ich gebe ihnen diese Vorr\xE4te."
+      nextDecision: 0
+      eventDecisions:
+      - valueName: moralSecurity
+        valueNumber: 1
+      - valueName: supplies
+        valueNumber: -2
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Tut mir leid, aber ich kann ihnen keine weiteren Vorr\xE4te
+        geben, nur weil sie meinen sie h\xE4tten sie verdient."
+      nextDecision: 0
+      eventDecisions:
+      - valueName: moralSecurity
+        valueNumber: -1
+      nextWaypoint: {fileID: 0}
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129137633643594
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129137633643595}
+  - component: {fileID: 3319129137633643573}
+  - component: {fileID: 3319129137633643572}
+  m_Layer: 0
+  m_Name: Waypoint (20)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129137633643595
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137633643594}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -20.96, y: 2.54, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129137633643573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137633643594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: Kilian
+      sentence: "Sir, der Leiter der Sicherheitskr\xE4fte sorgt anscheinend f\xFCr
+        Unruhe."
+    - name: Kilian
+      sentence: "Es wurde gemeldet wie er versucht hat die Zivilisten und die Sicherheitskr\xE4fte
+        zu \xFCberzeugen diese Gruppe zu verlassen und mit ihm zu gehen."
+    - name: Kilian
+      sentence: Er zweifelt anscheinend ihre Entscheidungen an und will sie als Kommandant
+        ersetzen.
+    - name: Chris
+      sentence: "WAS! Ich muss sofort zu ihm gehen und mal ernsthaft mit ihm dar\xFCber
+        reden."
+    - name: Thomas
+      sentence: "Ahh, gesellt sich unser ach so weiser Anf\xFChrer endlich einmal
+        zu seinem Volk?"
+    - name: Chris
+      sentence: "Was hat das zu bedeuten Thomas? Wieso sorgst du jetzt in dieser
+        Notlage f\xFCr eine solche Unruhe?"
+    - name: Thomas
+      sentence: "Weil ich es leid bin den Worten eines unerfahrenen Gr\xFCnschnabels
+        zu folgen. Du hast keinerlei Autorit\xE4t und von deiner mangelhaften Erfahrung
+        ganz zu schweigen."
+    - name: Thomas
+      sentence: "So will ich nun die Leute hier davon \xFCberzeugen, dass sie nicht
+        l\xE4nger dir folgen sollen und stattdessen mir folgen sollen. Damit sie
+        nicht mit dir in den Untergang laufen."
+    - name: Chris
+      sentence: "Ist das dein Ernst? Wir haben keine Zeit f\xFCr so was. Mag vielleicht
+        sein das du vor meiner Zeit als Kommandant im Rang h\xF6her warst als ich,
+        aber ich habe diese Aufgabe von meinem Vater bekommen und ich werde ihn nicht
+        entt\xE4uschen."
+    - name: Chris
+      sentence: "Wenn wir uns trennen, sind wir verwundbarer und k\xF6nnten alle
+        an unserem Vorhaben scheitern."
+    - name: Thomas
+      sentence: "Wir sind hier doch keine Monarchie, die den Sohn des letzten Anf\xFChrers
+        einsetzt. Entweder du \xFCberl\xE4sst mir das Kommando oder ich gehe mit
+        meinen Leuten ohne dich weiter."
+    - name: Chris
+      sentence: "Tut mir leid, aber ich kann dir unm\xF6glich das Kommando \xFCbergeben.
+        Allein schon aus dem Grund das es eigentlich immer noch meinem Vater geh\xF6rt."
+    - name: Thomas
+      sentence: "Dann l\xE4sst du mir keine Wahl."
+    - name: ' '
+      sentence: "Thomas verl\xE4sst die Gruppe und nimmt dabei alle mit die seine
+        Meinung teilen. Darunter vor allem Sicherheitskr\xE4fte und die Leute die
+        mit deinen Entscheidungen unzufrieden waren. "
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: amountSecurity
+        valueNumber: -6
+      - valueName: amountCivilian
+        valueNumber: -12
+      nextWaypoint: {fileID: 0}
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!114 &3319129137633643572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137633643594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94e47cafe050f77468ce787a9220f2ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  stats: {fileID: 0}
+--- !u!1 &3319129137659462180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129137659462181}
+  - component: {fileID: 3319129137659462182}
+  m_Layer: 0
+  m_Name: Waypoint (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129137659462181
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137659462180}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.43, y: -0.19, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129137659462182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137659462180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 5
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: Kilian
+      sentence: "Sir, ich muss ihnen leider mitteilen das einer der hinteren Konvois
+        abgest\xFCrtzt ist"
+    - name: Kilian
+      sentence: Hoffen wir das es das wert war Sir.
+    saveDecision: 0
+    decisions:
+    - decisionText: Ende
+      nextDecision: 0
+      eventDecisions:
+      - valueName: timeHour
+        valueNumber: 1
+      - valueName: amountSecurity
+        valueNumber: -2
+      - valueName: amountCivilian
+        valueNumber: -8
+      - valueName: amountInjured
+        valueNumber: -3
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 5
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: Sir wir sind nun auf der anderen Seite angelangt. Wie erwartet hat
+        es uns etwas Zeit gekostet.
+    saveDecision: 0
+    decisions: []
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129137673578055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129137673578048}
+  m_Layer: 0
+  m_Name: Waypoint (19)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129137673578048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137673578055}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -20.44, y: 0.95, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3319129137681388900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129137681388901}
+  - component: {fileID: 3319129137681388902}
+  m_Layer: 0
+  m_Name: Waypoint (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129137681388901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137681388900}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.04, y: 0.03, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129137681388902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137681388900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 1
+    talks:
+    - name: ' '
+      sentence: "Die Gruppe muss anhalten, weil pl\xF6tzlich ein breiter und tiefer
+        Fluss mit giftigem Wasser im Weg ist."
+    - name: Kilian
+      sentence: "Sir, dieser Fluss war nicht auf unserer Karte verzeichnet. Wir m\xFCssen
+        einen Weg finden wie wir ihn \xFCberqueren k\xF6nnen."
+    - name: Kilian
+      sentence: "Wir k\xF6nnten versuchen ihn entlang zu laufen, in der Hoffnung
+        das wir um ihn herum laufen k\xF6nnen oder wir versuchen ein provisorische
+        Br\xFCcke zu bauen."
+    - name: Kilian
+      sentence: Beide Entscheidungen haben gewisse Risiken, also was schlagen sie
+        vor?
+    saveDecision: 1
+    decisions:
+    - decisionText: "Wir bauen eine Br\xFCcke, dadurch sind wir schneller \xFCber
+        den Fluss."
+      nextDecision: 0
+      eventDecisions: []
+      nextWaypoint: {fileID: 3319129137659462180}
+    - decisionText: "Wir laufen drum herum, es ist zu riskant eine Br\xFCcke zu bauen."
+      nextDecision: 1
+      eventDecisions: []
+      nextWaypoint: {fileID: 0}
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
+--- !u!1 &3319129137694566323
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3319129137694566332}
+  - component: {fileID: 3319129137694566333}
+  m_Layer: 0
+  m_Name: Waypoint (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3319129137694566332
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137694566323}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 9.14, y: -4.15, z: 1.6914062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3319129135791070139}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3319129137694566333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319129137694566323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08937329b23a3ff439e4c56676a937dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDialogue: 0
+  events:
+  - connectedWaypoint: 0
+    endEvent: 0
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: "Chris, ich wurde dar\xFCber informiert das weiter hinten in unserer
+        Gruppe, manche Leute damit anfangen einheimische Fr\xFCchte zu sammeln."
+    - name: Kilian
+      sentence: "Anscheinend machen sie sich sorgen das uns die Vorr\xE4te ausgehen.
+        Wie sollen wir damit umgehen?"
+    saveDecision: 0
+    decisions:
+    - decisionText: "Sie sollen sie pfl\xFCcken. Wir brauchen so viele Vorr\xE4te
+        wie m\xF6glich, wenn wir hier \xFCberleben wollen."
+      nextDecision: 1
+      eventDecisions:
+      - valueName: supplies
+        valueNumber: 2
+      - valueName: amountInjured
+        valueNumber: 12
+      - valueName: amountCivilian
+        valueNumber: -12
+      nextWaypoint: {fileID: 0}
+    - decisionText: "Sie sollen sofort damit aufh\xF6ren, wir wissen nichts \xFCber
+        diese Fr\xFCchte."
+      nextDecision: 2
+      eventDecisions:
+      - valueName: moralCivilian
+        valueNumber: -1
+      nextWaypoint: {fileID: 0}
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: "Wir haben nun mehr Vorr\xE4te, aber anscheinen werden ein paar wenige
+        von diesen Fr\xFCchten krank."
+    saveDecision: 0
+    decisions: []
+  - connectedWaypoint: 0
+    endEvent: 1
+    endDecisions: 0
+    talks:
+    - name: Kilian
+      sentence: War vermutlich so auch am besten, jedoch glaube ich das nicht alle
+        mit ihrer Entscheidung zufrieden sind.
+    saveDecision: 0
+    decisions: []
+  currentEventTrigger: 0
+  eventManager: {fileID: 0}
